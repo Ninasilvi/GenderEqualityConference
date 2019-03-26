@@ -1,0 +1,117 @@
+
+h1{
+    text-align: center;
+}
+
+.titletext{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#titletext0{
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.photo{
+    width: 400px;
+    height: 400px;
+    align-content: center;
+    margin: 25px;
+    padding: 0px;
+    box-align: center;
+    position: relative;
+}
+
+.photo:hover{
+    width: 450px;
+    height: 450px;
+    margin-left: 200ox;
+    margin-right: 0px;
+    box-align: center;
+    opacity: 0.3;
+}
+
+.image{
+    width: 400px;
+    height: 400px;
+    margin: 25px;
+}
+
+#programme{
+    display: flex;
+    justify-content: center;
+}
+
+#program{
+    align-self: center;
+}
+
+.AM{
+    text-align: left;
+}
+
+.PM{
+    text-align: right;
+}
+
+li.nav-item{
+    margin: 25px;
+    font-size: 18px;
+}
+
+
+.goal{
+    margin-left: 235px;
+    margin-right: 75px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    padding: 20px;
+    border: 0px solid;
+    border-radius: 25px;
+    background-color: aqua;
+}
+
+.goal:hover{
+    background-color: aquamarine;
+}
+
+#gecgoal{
+    align-self: center;
+}
+
+#photos{
+    display: flex;
+    justify-content: center;
+}
+
+#table{
+    align-self: center;
+}
+
+.text{
+    margin: 20px;
+    text-align: center;
+}
+
+nav{
+    position: fixed;
+    background-color: white;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+#gec{
+    margin-top: 100px;
+}
+
+#sponsorphotos{
+    display: flex;
+    justify-content: center;
+}
+
+#sponsors{
+    align-self: center;
+}
